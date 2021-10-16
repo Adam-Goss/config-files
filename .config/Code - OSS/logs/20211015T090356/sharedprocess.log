@@ -1,0 +1,12 @@
+[2021-10-15 09:04:08.048] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-10-15 09:04:08.050] [sharedprocess] [info] [logs cleanup]: Removing log folders '20211014T091025'
+[2021-10-15 09:04:28.049] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-10-15 09:04:28.050] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-10-15 09:04:28.052] [sharedprocess] [info] [storage cleanup]: Deleting storage folder 1634282449415.
+[2021-10-15 09:04:38.048] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-10-15 09:06:48.027] [sharedprocess] [info] Installing extension: kamikillerto.vscode-colorize
+[2021-10-15 09:06:50.169] [sharedprocess] [info] Downloaded extension: kamikillerto.vscode-colorize /home/adam/.config/Code - OSS/CachedExtensionVSIXs/kamikillerto.vscode-colorize-0.11.1
+[2021-10-15 09:06:50.365] [sharedprocess] [info] Extracted extension to /home/adam/.vscode-oss/extensions/.f83c2c31-5855-4797-ae7a-1a60ea7c5183: kamikillerto.vscode-colorize
+[2021-10-15 09:06:50.394] [sharedprocess] [info] Renamed to /home/adam/.vscode-oss/extensions/kamikillerto.vscode-colorize-0.11.1
+[2021-10-15 09:06:50.396] [sharedprocess] [info] Extracting completed. kamikillerto.vscode-colorize
+[2021-10-15 09:06:50.398] [sharedprocess] [info] Extension installed successfully: kamikillerto.vscode-colorize

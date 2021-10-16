@@ -1,0 +1,9 @@
+[2021-10-15 08:20:50.590] [renderer1] [info] Starting extension host with pid 3665.
+[2021-10-15 08:20:51.156] [renderer1] [error] [Extension Host] (node:3665) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2021-10-15 08:23:53.192] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json'
+[2021-10-15 08:23:53.193] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json'
+[2021-10-15 08:23:53.193] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2021-10-15 08:23:53.194] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/ruby/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/ruby/package.json'
+[2021-10-15 08:23:53.194] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/vb/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/vb/package.json'
+[2021-10-15 08:23:53.194] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json'

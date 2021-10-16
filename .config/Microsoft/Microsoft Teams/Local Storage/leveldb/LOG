@@ -1,0 +1,47 @@
+2021/10/15-14:50:02.401 3942 Reusing MANIFEST /home/adam/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/10/15-14:50:02.402 3942 Recovering log #15
+2021/10/15-14:50:02.409 3942 Level-0 table #19: started
+2021/10/15-14:50:02.418 3942 Level-0 table #19: 553962 bytes OK
+2021/10/15-14:50:02.435 3942 Delete type=0 #15
+2021/10/15-14:51:03.032 3ab6 Level-0 table #22: started
+2021/10/15-14:51:03.044 3ab6 Level-0 table #22: 181967 bytes OK
+2021/10/15-14:51:03.046 3ab6 Delete type=0 #20
+2021/10/15-15:03:03.032 3ab6 Level-0 table #24: started
+2021/10/15-15:03:03.042 3ab6 Level-0 table #24: 33039 bytes OK
+2021/10/15-15:03:03.044 3ab6 Delete type=0 #21
+2021/10/15-15:11:03.032 3ab6 Level-0 table #26: started
+2021/10/15-15:11:03.042 3ab6 Level-0 table #26: 21416 bytes OK
+2021/10/15-15:11:03.044 3ab6 Delete type=0 #23
+2021/10/15-15:11:03.044 3ab6 Compacting 4@0 + 1@1 files
+2021/10/15-15:11:03.068 3ab6 Generated table #27@0: 123 keys, 803822 bytes
+2021/10/15-15:11:03.068 3ab6 Compacted 4@0 + 1@1 files => 803822 bytes
+2021/10/15-15:11:03.070 3ab6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/15-15:11:03.071 3ab6 Delete type=2 #22
+2021/10/15-15:11:03.071 3ab6 Delete type=2 #19
+2021/10/15-15:11:03.071 3ab6 Delete type=2 #26
+2021/10/15-15:11:03.071 3ab6 Delete type=2 #17
+2021/10/15-15:11:03.071 3ab6 Delete type=2 #24
+2021/10/15-15:17:03.032 3ab6 Level-0 table #29: started
+2021/10/15-15:17:03.042 3ab6 Level-0 table #29: 20835 bytes OK
+2021/10/15-15:17:03.044 3ab6 Delete type=0 #25
+2021/10/15-15:22:03.032 3ab6 Level-0 table #31: started
+2021/10/15-15:22:03.042 3ab6 Level-0 table #31: 20558 bytes OK
+2021/10/15-15:22:03.044 3ab6 Delete type=0 #28
+2021/10/15-15:26:03.032 3ab6 Level-0 table #33: started
+2021/10/15-15:26:03.041 3ab6 Level-0 table #33: 21296 bytes OK
+2021/10/15-15:26:03.043 3ab6 Delete type=0 #30
+2021/10/15-15:29:03.032 3ab6 Level-0 table #35: started
+2021/10/15-15:29:03.041 3ab6 Level-0 table #35: 17805 bytes OK
+2021/10/15-15:29:03.044 3ab6 Delete type=0 #32
+2021/10/15-15:29:03.044 3ab6 Compacting 4@0 + 1@1 files
+2021/10/15-15:29:03.052 3ab6 Generated table #36@0: 124 keys, 805216 bytes
+2021/10/15-15:29:03.052 3ab6 Compacted 4@0 + 1@1 files => 805216 bytes
+2021/10/15-15:29:03.054 3ab6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/15-15:29:03.054 3ab6 Delete type=2 #33
+2021/10/15-15:29:03.054 3ab6 Delete type=2 #27
+2021/10/15-15:29:03.054 3ab6 Delete type=2 #35
+2021/10/15-15:29:03.054 3ab6 Delete type=2 #31
+2021/10/15-15:29:03.054 3ab6 Delete type=2 #29
+2021/10/15-15:32:03.032 3ab6 Level-0 table #38: started
+2021/10/15-15:32:03.055 3ab6 Level-0 table #38: 71151 bytes OK
+2021/10/15-15:32:03.069 3ab6 Delete type=0 #34

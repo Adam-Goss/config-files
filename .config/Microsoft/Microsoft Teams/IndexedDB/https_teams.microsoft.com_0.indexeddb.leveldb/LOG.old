@@ -1,0 +1,10 @@
+2021/10/14-10:08:24.110 56e1 Reusing MANIFEST /home/adam/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/14-10:08:24.110 56e1 Recovering log #9
+2021/10/14-10:08:24.111 56e1 Reusing old log /home/adam/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000009.log 
+2021/10/14-10:08:24.771 56fa Compacting 1@1 + 1@2 files
+2021/10/14-10:08:24.802 56fa Generated table #12@1: 6056 keys, 2150106 bytes
+2021/10/14-10:08:24.811 56fa Generated table #13@1: 4090 keys, 227858 bytes
+2021/10/14-10:08:24.811 56fa Compacted 1@1 + 1@2 files => 2377964 bytes
+2021/10/14-10:08:24.814 56fa compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/10/14-10:08:24.814 56fa Delete type=2 #8
+2021/10/14-10:08:24.814 56fa Delete type=2 #10

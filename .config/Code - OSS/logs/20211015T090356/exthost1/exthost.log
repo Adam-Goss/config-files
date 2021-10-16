@@ -1,0 +1,30 @@
+[2021-10-15 09:03:58.294] [exthost] [info] extension host started
+[2021-10-15 09:03:58.378] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-15 09:03:58.378] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2021-10-15 09:03:58.381] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-15 09:03:58.381] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2021-10-15 09:03:58.476] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-15 09:03:58.476] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/github/dist/extension.js
+[2021-10-15 09:03:58.506] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-15 09:03:58.506] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-15 09:03:58.640] [exthost] [info] eager extensions activated
+[2021-10-15 09:03:58.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-15 09:03:58.651] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-15 09:03:58.656] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-15 09:03:58.657] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-15 09:06:46.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-10-15 09:06:46.253] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/configurationEditingMain
+[2021-10-15 09:06:46.262] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-10-15 09:06:46.262] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/extension-editing/dist/extensionEditingMain
+[2021-10-15 09:06:46.278] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2021-10-15 09:06:46.278] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-10-15 09:06:46.296] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-10-15 09:06:46.296] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/npm/dist/npmMain
+[2021-10-15 09:06:50.531] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: false, activationEvent: '*'
+[2021-10-15 09:06:50.531] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/adam/.vscode-oss/extensions/kamikillerto.vscode-colorize-0.11.1/out/src/extension
+[2021-10-15 09:07:16.983] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2021-10-15 09:07:16.983] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-server-ready/dist/extension
+[2021-10-15 09:07:59.825] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2021-10-15 09:07:59.825] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2021-10-15 09:09:56.261] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-15 09:09:57.277] [exthost] [info] exiting with code 0

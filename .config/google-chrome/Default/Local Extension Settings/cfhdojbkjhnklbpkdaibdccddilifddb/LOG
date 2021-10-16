@@ -1,0 +1,20 @@
+2021/10/16-23:09:50.960 187c Reusing MANIFEST /home/adam/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2021/10/16-23:09:50.960 187c Recovering log #182
+2021/10/16-23:09:50.960 187c Reusing old log /home/adam/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000182.log 
+2021/10/16-23:10:53.322 1764 Level-0 table #186: started
+2021/10/16-23:10:53.395 1764 Level-0 table #186: 6685006 bytes OK
+2021/10/16-23:10:53.398 1764 Delete type=0 #182
+2021/10/16-23:10:54.218 1764 Level-0 table #188: started
+2021/10/16-23:10:54.272 1764 Level-0 table #188: 6685101 bytes OK
+2021/10/16-23:10:54.276 1764 Delete type=0 #185
+2021/10/16-23:10:54.278 1764 Compacting 4@0 + 2@1 files
+2021/10/16-23:10:54.396 1764 Generated table #189@0: 1 keys, 6684852 bytes
+2021/10/16-23:10:54.401 1764 Generated table #190@0: 4 keys, 484 bytes
+2021/10/16-23:10:54.401 1764 Compacted 4@0 + 2@1 files => 6685336 bytes
+2021/10/16-23:10:54.403 1764 compacted to: files[ 0 2 1 0 0 0 0 ]
+2021/10/16-23:10:54.403 1764 Delete type=2 #179
+2021/10/16-23:10:54.403 1764 Delete type=2 #186
+2021/10/16-23:10:54.403 1764 Delete type=2 #183
+2021/10/16-23:10:54.403 1764 Delete type=2 #181
+2021/10/16-23:10:54.403 1764 Delete type=2 #178
+2021/10/16-23:10:54.403 1764 Delete type=2 #188

@@ -1,0 +1,15 @@
+2021/10/16-23:09:50.386 1757 Reusing MANIFEST /home/adam/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/10/16-23:09:50.386 1757 Recovering log #29
+2021/10/16-23:09:50.386 1757 Reusing old log /home/adam/.config/google-chrome/Default/Sync Data/LevelDB/000029.log 
+2021/10/16-23:09:53.436 187c Level-0 table #33: started
+2021/10/16-23:09:53.439 187c Level-0 table #33: 149377 bytes OK
+2021/10/16-23:09:53.443 187c Delete type=0 #29
+2021/10/16-23:09:53.444 187c Compacting 4@0 + 1@1 files
+2021/10/16-23:09:53.460 187c Generated table #34@0: 454 keys, 94064 bytes
+2021/10/16-23:09:53.460 187c Compacted 4@0 + 1@1 files => 94064 bytes
+2021/10/16-23:09:53.463 187c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/16-23:09:53.464 187c Delete type=2 #33
+2021/10/16-23:09:53.464 187c Delete type=2 #30
+2021/10/16-23:09:53.464 187c Delete type=2 #21
+2021/10/16-23:09:53.464 187c Delete type=2 #27
+2021/10/16-23:09:53.464 187c Delete type=2 #24

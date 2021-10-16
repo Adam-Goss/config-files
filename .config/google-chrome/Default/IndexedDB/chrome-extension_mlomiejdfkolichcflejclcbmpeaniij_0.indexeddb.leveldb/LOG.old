@@ -1,0 +1,14 @@
+2021/10/16-15:58:14.242 2df2 Reusing MANIFEST /home/adam/.config/google-chrome/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/16-15:58:14.242 2df2 Recovering log #102
+2021/10/16-15:58:14.244 2df2 Reusing old log /home/adam/.config/google-chrome/Default/IndexedDB/chrome-extension_mlomiejdfkolichcflejclcbmpeaniij_0.indexeddb.leveldb/000102.log 
+2021/10/16-15:58:14.244 2df2 Delete type=2 #100
+2021/10/16-15:58:14.266 2e17 Level-0 table #107: started
+2021/10/16-15:58:14.269 2e17 Level-0 table #107: 107272 bytes OK
+2021/10/16-15:58:14.272 2e17 Delete type=0 #102
+2021/10/16-15:58:14.273 2e17 Manual compaction at level-0 from '\x00!\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at '\x00!\x01\x02\x01\x03\x00f\x00o\x00o' @ 75572 : 1
+2021/10/16-15:58:14.273 2e17 Compacting 1@0 + 1@1 files
+2021/10/16-15:58:14.292 2e17 Generated table #108@0: 20541 keys, 495127 bytes
+2021/10/16-15:58:14.292 2e17 Compacted 1@0 + 1@1 files => 495127 bytes
+2021/10/16-15:58:14.294 2e17 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/10/16-15:58:14.294 2e17 Delete type=2 #107
+2021/10/16-15:58:14.294 2e17 Manual compaction at level-0 from '\x00!\x01\x02\x01\x03\x00f\x00o\x00o' @ 75572 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at (end)

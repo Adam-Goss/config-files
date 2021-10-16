@@ -1,0 +1,6 @@
+2021/10/15-21:47:37.163 1377 Reusing MANIFEST /home/adam/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/15-21:47:37.164 1377 Recovering log #3
+2021/10/15-21:47:37.173 1377 Reusing old log /home/adam/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2021/10/15-22:59:41.651 7577 Level-0 table #5: started
+2021/10/15-22:59:41.669 7577 Level-0 table #5: 1220617 bytes OK
+2021/10/15-22:59:41.673 7577 Delete type=0 #3

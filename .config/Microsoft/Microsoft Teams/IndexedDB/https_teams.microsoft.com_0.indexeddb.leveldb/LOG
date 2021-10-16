@@ -1,0 +1,45 @@
+2021/10/15-14:50:04.712 3944 Reusing MANIFEST /home/adam/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/10/15-14:50:04.712 3944 Recovering log #9
+2021/10/15-14:50:04.717 3944 Reusing old log /home/adam/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000009.log 
+2021/10/15-15:33:55.527 74ed Level-0 table #16: started
+2021/10/15-15:33:55.546 74ed Level-0 table #16: 1460839 bytes OK
+2021/10/15-15:33:55.548 74ed Delete type=0 #9
+2021/10/15-15:33:55.694 74ed Compacting 1@1 + 2@2 files
+2021/10/15-15:33:55.721 74ed Generated table #17@1: 3711 keys, 2138397 bytes
+2021/10/15-15:33:55.738 74ed Generated table #18@1: 6920 keys, 865245 bytes
+2021/10/15-15:33:55.738 74ed Compacted 1@1 + 2@2 files => 3003642 bytes
+2021/10/15-15:33:55.741 74ed compacted to: files[ 0 0 2 0 0 0 0 ]
+2021/10/15-15:33:55.742 74ed Delete type=2 #16
+2021/10/15-15:33:55.742 74ed Delete type=2 #12
+2021/10/15-15:33:55.742 74ed Delete type=2 #13
+2021/10/15-15:33:56.221 74ed Level-0 table #20: started
+2021/10/15-15:33:56.234 74ed Level-0 table #20: 1235528 bytes OK
+2021/10/15-15:33:56.236 74ed Delete type=0 #15
+2021/10/15-15:33:56.243 74ed Compacting 1@1 + 1@2 files
+2021/10/15-15:33:56.262 74ed Generated table #21@1: 5396 keys, 2144593 bytes
+2021/10/15-15:33:56.270 74ed Generated table #22@1: 1091 keys, 980108 bytes
+2021/10/15-15:33:56.270 74ed Compacted 1@1 + 1@2 files => 3124701 bytes
+2021/10/15-15:33:56.272 74ed compacted to: files[ 0 0 3 0 0 0 0 ]
+2021/10/15-15:33:56.272 74ed Delete type=2 #20
+2021/10/15-15:33:56.272 74ed Delete type=2 #17
+2021/10/15-15:33:59.433 74ed Level-0 table #24: started
+2021/10/15-15:33:59.444 74ed Level-0 table #24: 1287946 bytes OK
+2021/10/15-15:33:59.446 74ed Delete type=0 #19
+2021/10/15-15:33:59.636 74ed Compacting 1@1 + 1@2 files
+2021/10/15-15:33:59.662 74ed Generated table #25@1: 5120 keys, 2142680 bytes
+2021/10/15-15:33:59.669 74ed Generated table #26@1: 2587 keys, 673280 bytes
+2021/10/15-15:33:59.669 74ed Compacted 1@1 + 1@2 files => 2815960 bytes
+2021/10/15-15:33:59.671 74ed compacted to: files[ 0 0 4 0 0 0 0 ]
+2021/10/15-15:33:59.671 74ed Delete type=2 #21
+2021/10/15-15:33:59.672 74ed Delete type=2 #24
+2021/10/15-15:34:00.920 74ed Level-0 table #28: started
+2021/10/15-15:34:00.931 74ed Level-0 table #28: 1073667 bytes OK
+2021/10/15-15:34:00.933 74ed Delete type=0 #23
+2021/10/15-15:34:01.138 74ed Compacting 1@1 + 2@2 files
+2021/10/15-15:34:01.175 74ed Generated table #29@1: 6856 keys, 2153636 bytes
+2021/10/15-15:34:01.188 74ed Generated table #30@1: 3464 keys, 1428980 bytes
+2021/10/15-15:34:01.188 74ed Compacted 1@1 + 2@2 files => 3582616 bytes
+2021/10/15-15:34:01.191 74ed compacted to: files[ 0 0 4 0 0 0 0 ]
+2021/10/15-15:34:01.191 74ed Delete type=2 #28
+2021/10/15-15:34:01.191 74ed Delete type=2 #26
+2021/10/15-15:34:01.191 74ed Delete type=2 #25
